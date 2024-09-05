@@ -1,1 +1,1 @@
-A bus management website created using HTML, CSS, JavaScript, PHP, and MySQL. The platform allows users to browse schedules and book buses seamlessly, offering a dynamic, user-friendly interface backed by a robust database.
+use Xampp
